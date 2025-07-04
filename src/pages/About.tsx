@@ -99,13 +99,13 @@ const About = () => {
               transition={{ duration: 0.7, ease: 'easeOut' }}
               className="relative"
             >
-              <div className="aspect-square rounded-2xl overflow-hidden">
+              {/* <div className="aspect-square rounded-2xl overflow-hidden">
                 <img 
                   src={profileImage} 
                   alt="Larotia" 
                   className="w-full h-full object-cover"
                 />
-              </div>
+              </div> */}
               <div className="absolute bottom-8 right-8 bg-white dark:bg-neutral-800 px-8 py-6 rounded-xl shadow-xl">
                 <h3 className="font-display font-bold text-2xl mb-1">Larotia</h3>
                 <p className="text-primary-600 dark:text-primary-400">
