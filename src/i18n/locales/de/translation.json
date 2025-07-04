@@ -18,7 +18,7 @@
   "hero": {
     "greeting": "Hallo, ich bin",
     "name": "Larotia",
-    "title": "Architektin & Bauspezialistin",
+    "title": "Bauspezialistin",
     "description": "Als Masterstudentin schaffe ich inspirierende Räume durch innovatives Design und moderne 3D-Modellierungswerkzeuge.",
     "cta": "Entdecken Sie meine Projekte"
   },
@@ -80,8 +80,8 @@
     "education": {
       "title": "Ausbildung",
       "current": "Aktuell - Master in Architektur & Bauwesen",
-      "master1": "2023-2024 - Master 1 in Architektur & Bauwesen",
-      "bachelor": "2022-2023 - Bachelor in Architektur"
+      "master1": "2021-2023 - Master 1 in Architektur & Bauwesen",
+      "bachelor": "2019-2021 - Bachelor in Architektur"
     },
     "philosophy": {
       "title": "Meine Philosophie",

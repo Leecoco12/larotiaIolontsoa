@@ -18,7 +18,7 @@
   "hero": {
     "greeting": "Hello, I'm",
     "name": "Larotia",
-    "title": "Architect & Construction Specialist",
+    "title": "Construction Specialist",
     "description": "Currently pursuing my Master's degree, I create inspiring spaces through innovative design and cutting-edge 3D modeling tools.",
     "cta": "Discover my projects"
   },
@@ -80,8 +80,8 @@
     "education": {
       "title": "Education",
       "current": "Current - Master's degree in Architecture & Construction",
-      "master1": "2023-2024 - First year Master's in Architecture & Construction",
-      "bachelor": "2022-2023 - Bachelor's degree in Architecture"
+      "master1": "2021-2022 - First year Master's in Architecture & Construction",
+      "bachelor": "2018-2021 - Bachelor's degree in Architecture"
     },
     "philosophy": {
       "title": "My philosophy",
