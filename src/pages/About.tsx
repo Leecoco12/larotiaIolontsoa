@@ -30,7 +30,7 @@ const About = () => {
     },
   };
 
-  const profileImage = "https://images.pexels.com/photos/3771839/pexels-photo-3771839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2";
+  //const profileImage = "https://images.pexels.com/photos/3771839/pexels-photo-3771839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2";
 
   return (
     <div className="pt-24">
