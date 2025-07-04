@@ -1,15 +1,15 @@
-import maison1 from '../images/Portfolio/Façadeprincipale.png';
-import maison2 from '../images/Portfolio/Intérieur (2).png';
-import maison3 from '../images/Portfolio/intérieur.jpg';
-import maison4 from '../images/Portfolio/Image Facebook.png';
-import maison5 from '../images/Portfolio/Image Facebook (1).png';
-import maison6 from '../images/Portfolio/Image Facebook (2).png';
+import maison1 from '../images/Portfolio/facadeprincipale.png';
+import maison2 from '../images/Portfolio/interieur2.png';
+import maison3 from '../images/Portfolio/interieur.jpg';
+import maison4 from '../images/Portfolio/imagefacebook.png';
+import maison5 from '../images/Portfolio/imagefacebook1.png';
+import maison6 from '../images/Portfolio/imageacebook2.png';
 import maison7 from '../images/Portfolio/tranoanosy.jpg';
-import maison8 from '../images/Image Facebook (1).jpg';
-import maison9 from '../images/Image Facebook.jpg';
-import maison10 from '../images/Image Facebook.png';
+import maison8 from '../images/imageacebook.png';
+import maison9 from '../images/imagefacebook.jpg';
+import maison10 from '../images/imagefacebook1.jpg';
 import maison11 from '../images/Portfolio/anosy.jpg';
-import maison12 from '../images/Image Facebook (2).jpg';
+import maison12 from '../images/imagefacebook2.jpg';
 
 
 
