@@ -1,0 +1,126 @@
+{
+  "siteTitle": "Larotia — Architecture & Construction Portfolio",
+  "navigation": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "language": {
+    "fr": "French",
+    "en": "English",
+    "de": "German"
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Larotia",
+    "title": "Architect & Construction Specialist",
+    "description": "Currently pursuing my Master's degree, I create inspiring spaces through innovative design and cutting-edge 3D modeling tools.",
+    "cta": "Discover my projects"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Technical mastery at your service",
+    "2d": "2D Design",
+    "3d": "3D Modeling",
+    "tools": "Software proficiency",
+    "planning": "Project planning",
+    "sustainable": "Sustainable architecture",
+    "visualization": "Architectural visualization"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "A selection of my recent work",
+    "filters": {
+      "all": "All",
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "interior": "Interior",
+      "urban": "Urban"
+    },
+    "viewProject": "View project",
+    "noProjects": "No projects match these criteria",
+    "details": {
+      "client": "Client",
+      "date": "Date",
+      "location": "Location",
+      "category": "Category",
+      "tools": "Tools used",
+      "description": "Description",
+      "challenge": "Challenges",
+      "solution": "Solutions",
+      "gallery": "Image gallery",
+      "nextProject": "Next project",
+      "previousProject": "Previous project"
+    }
+  },
+  "software": {
+    "archicad": "ArchiCAD",
+    "autocad": "AutoCAD",
+    "revit": "Revit",
+    "lumion": "Lumion",
+    "sketchup": "SketchUp",
+    "photoshop": "Photoshop",
+    "illustrator": "Illustrator",
+    "indesign": "InDesign"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "Journey, vision and passion",
+    "bio": {
+      "title": "Who am I?",
+      "p1": "Currently pursuing a Master's degree in architecture and construction, I combine creativity and technical expertise to design functional and aesthetic spaces.",
+      "p2": "My academic background, complemented by practical experience, has allowed me to develop a deep understanding of modern design tools and sustainable architecture principles.",
+      "p3": "I am particularly passionate about integrating new technologies into the architectural design process, especially 3D modeling and virtual reality."
+    },
+    "education": {
+      "title": "Education",
+      "current": "Current - Master's degree in Architecture & Construction",
+      "master1": "2023-2024 - First year Master's in Architecture & Construction",
+      "bachelor": "2022-2023 - Bachelor's degree in Architecture"
+    },
+    "philosophy": {
+      "title": "My philosophy",
+      "text": "I believe in a human-centered approach, where each space is designed to enhance the experience of its users while respecting the environment. Architecture is not just about aesthetics, but also functionality, sustainability, and innovation."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's discuss your project",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "success": "Message sent successfully!",
+      "error": "An error occurred. Please try again.",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email",
+      "subjectPlaceholder": "Subject of your message",
+      "messagePlaceholder": "Detail your project or request..."
+    },
+    "info": {
+      "title": "Contact information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Larotia. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "credits": "Designed with passion",
+    "backToTop": "Back to top"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "button": "Back to home"
+  }
+}

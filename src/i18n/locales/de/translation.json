@@ -1,0 +1,126 @@
+{
+  "siteTitle": "Larotia — Architektur & Bauportfolio",
+  "navigation": {
+    "home": "Startseite",
+    "projects": "Projekte",
+    "about": "Über mich",
+    "contact": "Kontakt"
+  },
+  "language": {
+    "fr": "Französisch",
+    "en": "Englisch",
+    "de": "Deutsch"
+  },
+  "theme": {
+    "light": "Heller Modus",
+    "dark": "Dunkler Modus"
+  },
+  "hero": {
+    "greeting": "Hallo, ich bin",
+    "name": "Larotia",
+    "title": "Architektin & Bauspezialistin",
+    "description": "Als Masterstudentin schaffe ich inspirierende Räume durch innovatives Design und moderne 3D-Modellierungswerkzeuge.",
+    "cta": "Entdecken Sie meine Projekte"
+  },
+  "skills": {
+    "title": "Fähigkeiten & Expertise",
+    "subtitle": "Technische Meisterschaft zu Ihren Diensten",
+    "2d": "2D-Design",
+    "3d": "3D-Modellierung",
+    "tools": "Software-Kenntnisse",
+    "planning": "Projektplanung",
+    "sustainable": "Nachhaltige Architektur",
+    "visualization": "Architekturvisualisierung"
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Eine Auswahl meiner neuesten Arbeiten",
+    "filters": {
+      "all": "Alle",
+      "residential": "Wohngebäude",
+      "commercial": "Gewerbe",
+      "interior": "Innenarchitektur",
+      "urban": "Stadtplanung"
+    },
+    "viewProject": "Projekt ansehen",
+    "noProjects": "Keine Projekte entsprechen diesen Kriterien",
+    "details": {
+      "client": "Kunde",
+      "date": "Datum",
+      "location": "Standort",
+      "category": "Kategorie",
+      "tools": "Verwendete Tools",
+      "description": "Beschreibung",
+      "challenge": "Herausforderungen",
+      "solution": "Lösungen",
+      "gallery": "Bildgalerie",
+      "nextProject": "Nächstes Projekt",
+      "previousProject": "Vorheriges Projekt"
+    }
+  },
+  "software": {
+    "archicad": "ArchiCAD",
+    "autocad": "AutoCAD",
+    "revit": "Revit",
+    "lumion": "Lumion",
+    "sketchup": "SketchUp",
+    "photoshop": "Photoshop",
+    "illustrator": "Illustrator",
+    "indesign": "InDesign"
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Werdegang, Vision und Leidenschaft",
+    "bio": {
+      "title": "Wer bin ich?",
+      "p1": "Derzeit absolviere ich einen Master in Architektur und Bauwesen und verbinde Kreativität mit technischem Fachwissen, um funktionale und ästhetische Räume zu gestalten.",
+      "p2": "Mein akademischer Hintergrund, ergänzt durch praktische Erfahrung, hat es mir ermöglicht, ein tiefes Verständnis für moderne Designwerkzeuge und nachhaltige Architekturprinzipien zu entwickeln.",
+      "p3": "Ich bin besonders begeistert von der Integration neuer Technologien in den architektonischen Designprozess, insbesondere 3D-Modellierung und Virtual Reality."
+    },
+    "education": {
+      "title": "Ausbildung",
+      "current": "Aktuell - Master in Architektur & Bauwesen",
+      "master1": "2023-2024 - Master 1 in Architektur & Bauwesen",
+      "bachelor": "2022-2023 - Bachelor in Architektur"
+    },
+    "philosophy": {
+      "title": "Meine Philosophie",
+      "text": "Ich glaube an einen menschenzentrierten Ansatz, bei dem jeder Raum so gestaltet ist, dass er die Erfahrung seiner Nutzer verbessert und gleichzeitig die Umwelt respektiert. Architektur ist nicht nur eine Frage der Ästhetik, sondern auch der Funktionalität, Nachhaltigkeit und Innovation."
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Lassen Sie uns über Ihr Projekt sprechen",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Senden",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+      "namePlaceholder": "Ihr Name",
+      "emailPlaceholder": "Ihre E-Mail",
+      "subjectPlaceholder": "Betreff Ihrer Nachricht",
+      "messagePlaceholder": "Beschreiben Sie Ihr Projekt oder Ihre Anfrage..."
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "location": "Standort"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Larotia. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "credits": "Mit Leidenschaft gestaltet",
+    "backToTop": "Zurück nach oben"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "button": "Zurück zur Startseite"
+  }
+}
