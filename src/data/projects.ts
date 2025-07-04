@@ -134,9 +134,9 @@ export const projectData: Project[] = [
       plan2,
       plan3
     ],
-    client: 'Famille Petit',
-    date: '2022',
-    location: 'Annecy, France',
+    client: 'Famille Ratovo',
+    date: 'Octobre 2024',
+    location: 'Ambatondrazaka, Imerimandroso, Toamasina',
     tools: ['AutoCAD', 'ArchiCAD']
   }
 //   {
