@@ -10,6 +10,10 @@ import maison9 from '../images/imagefacebook.jpg';
 import maison10 from '../images/imagefacebook1.jpg';
 import maison11 from '../images/Portfolio/anosy.jpg';
 import maison12 from '../images/imagefacebook2.jpg';
+import plan from '../images/plan/plan.png';
+import plan1 from '../images/plan/plan1.png';
+import plan2 from '../images/plan/plan2.png';
+import plan3 from '../images/plan/plan3.png';
 
 
 
@@ -41,11 +45,15 @@ export const projectData: Project[] = [
     mainImage: maison1,
     images: [
       maison2,
-      maison12,
+      //maison12,
       maison3,
       maison4,
       maison5,
-      maison6
+      maison6,
+      plan,
+      plan1,
+      plan2,
+      plan3
     ],
     client: 'Famille Ratovo',
     date: 'Novembre 2024',
@@ -74,10 +82,10 @@ export const projectData: Project[] = [
   // },
   {
     id: 'loft-apartment',
-    title: 'Rénovation interieur et exterieur',
+    title: 'Rénovation intérieure et extérieure',
     category: 'interior',
-    excerpt: 'Rénovation intérieure et exterieur d\’une maison familiale alliant cachet existant et modernité fonctionnelle.',
-    description: 'Ce projet de rénovation a transformé l\’intérieur et exterieur d\’une maison familiale en un espace de vie contemporain, chaleureux et lumineux. Les éléments d’origine tels que les poutres apparentes, les matériaux bruts et certaines ouvertures existantes ont été conservés et mis en valeur. L\’agencement intérieur a été repensé pour offrir un plan plus ouvert, optimisant circulation et lumière naturelle, tout en intégrant des solutions de rangement élégantes et discrètes.',
+    excerpt: 'Rénovation intérieure et extérieure d\’une maison familiale alliant cachet existant et modernité fonctionnelle.',
+    description: 'Ce projet de rénovation a transformé l\’intérieur et extérieur d\’une maison familiale en un espace de vie contemporain, chaleureux et lumineux. Les éléments d’origine tels que les poutres apparentes, les matériaux bruts et certaines ouvertures existantes ont été conservés et mis en valeur. L\’agencement intérieur a été repensé pour offrir un plan plus ouvert, optimisant circulation et lumière naturelle, tout en intégrant des solutions de rangement élégantes et discrètes.',
     challenge: 'L\’organisation initiale n\’était plus adaptée aux besoins actuels. Des contraintes techniques liées à l\’ancienneté du bâtiment, comme une isolation insuffisante et des hauteurs de plafond variables, ont nécessité une approche sur mesure. Il fallait également moderniser les installations sans altérer l\’âme de la maison.',
     solution: 'Une intervention ciblée a permis d\’améliorer le confort thermique et acoustique grâce à l\’intégration d\’isolants performants dans les murs et plafonds. Certaines cloisons ont été reconfigurées pour créer de nouveaux volumes sans alourdir l\’espace. Un chauffage au sol a été installé sur une dalle flottante, assurant un confort optimal sans compromettre l\’esthétique intérieure.',
     mainImage: maison7,
@@ -112,26 +120,25 @@ export const projectData: Project[] = [
   //   location: 'Bordeaux, France',
   //   tools: ['AutoCAD', 'SketchUp', 'Illustrator']
   // },
-  // {
-  //   id: 'wooden-pavilion',
-  //   title: 'Pavillon en Bois Modulaire',
-  //   category: 'residential',
-  //   excerpt: 'Conception d\'un pavillon extensible en bois, utilisant des techniques de préfabrication innovantes.',
-  //   description: 'Ce pavillon résidentiel de 120m² est construit entièrement en bois local selon un système modulaire innovant. La conception permet une évolution de l\'habitat dans le temps, avec la possibilité d\'ajouter ou de reconfigurer des modules selon l\'évolution des besoins familiaux. L\'architecture minimaliste met en valeur la beauté naturelle du matériau bois et s\'intègre harmonieusement dans son environnement naturel.',
-  //   challenge: 'Développer un système constructif modulaire qui soit à la fois flexible, durable et économiquement viable. Le système devait permettre une construction rapide sur site tout en garantissant une excellente performance thermique et une esthétique soignée.',
-  //   solution: 'Après plusieurs prototypes, un système de modules préfabriqués en atelier a été mis au point. Ces modules intègrent structure, isolation, réseaux et finitions, réduisant considérablement le temps de chantier. Les connections entre modules ont été spécialement conçues pour permettre un démontage et un réassemblage facile, dans une logique d\'économie circulaire. Le bois utilisé provient de forêts gérées durablement situées à moins de 100km du site.',
-  //   mainImage: 'https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-  //   images: [
-  //     'https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-  //     'https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-  //     'https://images.pexels.com/photos/463734/pexels-photo-463734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-  //     'https://images.pexels.com/photos/261156/pexels-photo-261156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
-  //   ],
-  //   client: 'Famille Petit',
-  //   date: '2022',
-  //   location: 'Annecy, France',
-  //   tools: ['Revit', 'Lumion', 'AutoCAD']
-  // }
+  {
+    id: 'plan-2D',
+    title: 'Plan 2D de la maison moderne Ambatondrazaka',
+    category: 'residential',
+    excerpt: 'Conception d\'un pavillon extensible en bois, utilisant des techniques de préfabrication innovantes.',
+    description: 'Ce pavillon résidentiel de 120m² est construit entièrement en bois local selon un système modulaire innovant. La conception permet une évolution de l\'habitat dans le temps, avec la possibilité d\'ajouter ou de reconfigurer des modules selon l\'évolution des besoins familiaux. L\'architecture minimaliste met en valeur la beauté naturelle du matériau bois et s\'intègre harmonieusement dans son environnement naturel.',
+    challenge: 'Développer un système constructif modulaire qui soit à la fois flexible, durable et économiquement viable. Le système devait permettre une construction rapide sur site tout en garantissant une excellente performance thermique et une esthétique soignée.',
+    solution: 'Après plusieurs prototypes, un système de modules préfabriqués en atelier a été mis au point. Ces modules intègrent structure, isolation, réseaux et finitions, réduisant considérablement le temps de chantier. Les connections entre modules ont été spécialement conçues pour permettre un démontage et un réassemblage facile, dans une logique d\'économie circulaire. Le bois utilisé provient de forêts gérées durablement situées à moins de 100km du site.',
+    mainImage: plan,
+    images: [
+      plan1,
+      plan2,
+      plan3
+    ],
+    client: 'Famille Petit',
+    date: '2022',
+    location: 'Annecy, France',
+    tools: ['AutoCAD', 'ArchiCAD']
+  }
 //   {
 //     id: 'cultural-center',
 //     title: 'Centre Culturel Polyvalent',
